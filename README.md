@@ -1,6 +1,10 @@
 #### Backend Meetup
 
-This is the final challenge of the Rockeseat course addressing NodeJS, and I thank Rocketseat for providing a great experience during these months.### Instructions:
+This is the final challenge of the Rockeseat course addressing NodeJS, and I thank Rocketseat for providing a great experience during these months.
+
+This backend is responsible for controlling all the functions of our application on both web and mobile.
+
+### Instructions:
 
 In the project directory, you can run:
 
